@@ -1,0 +1,58 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1{
+    text-shadow: 100%;
+    text-decoration-color: red;
+
+}
+
+header img{
+    height: 400px;
+    border-color: blueviolet;
+    justify-content: flex-end;
+    display: inline-block;
+}
+
+.about h1{
+    text-align: justify;
+    text-shadow: 50%;
+
+}
+
+.about h3{
+    text-align: left;
+    text-shadow: 100%;
+}
+
+.about img{
+    border-image-width: 20% auto;
+    justify-content: right;
+    border-color: black;
+}
+
+.skills ul{
+    background-color: dodgerblue;
+}
+
+.skills h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: blue;
+}
+
+.projects ul{
+    background-color: springgreen;
+    text-align: center;
+    background-image: none;
+    font-style: italic;
+
+}
+
+.projects h2{
+    background-color: chocolate;
+    text-align: start;
+    text-transform: capitalize;
+    text-shadow: 100%;
+}

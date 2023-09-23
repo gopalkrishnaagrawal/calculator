@@ -1,0 +1,70 @@
+body, h1, h2, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: arial, sans-serif;
+
+}
+
+.container{
+    max-width: 960px;
+    background-color: aquamarine;
+    border-radius: 0cm;
+    font-style: italic;
+    margin: 0 auto;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+.header {
+background-color:#183b68;
+color:#fff;
+padding: 40px 0;
+text-align: center
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header img{
+    justify-content: center;
+}
+
+.about {
+    font-size: medium;
+    font-style: italic;
+    background-color: #183b68;
+    padding: 40px 0;
+    margin: auto;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding:10px;
+    margin-bottom: 20px;
+    font-size: larger;
+    background-color: aquamarine;
+}
+
+.skills 
+{
+    background-color: #f33;
+    font-size: large;
+    font: 400;
+    font-style: italic;
+}
+
+.contact {
+    font-style: oblique;
+    background-color: #183b68;
+}
+.footer {
+    background-color:#333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}

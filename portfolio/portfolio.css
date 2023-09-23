@@ -1,0 +1,47 @@
+body, h1, h2, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: arial, sans-serif;
+}
+
+.container{
+    font-style: italic;
+    background-color: aquamarine;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+header {
+background-color:#183b68;
+color:#fff;
+padding: 40px 0;
+text-align: center
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding:10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color:#333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
